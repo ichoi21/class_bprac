@@ -1,5 +1,14 @@
 red
 purple
 
+<<<<<<< HEAD
 blue
 green
+=======
+yellow
+white
+black
+blue
+green
+magenta
+>>>>>>> dev
